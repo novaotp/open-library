@@ -1,6 +1,6 @@
-# Mon projet
+# OpenLibrary
 
-Ce projet est une application web pour une médiathèque. Plus spécifiquement, les films et les livres.
+OpenLibrary est une application web pour une médiathèque. Plus spécifiquement, les films et les livres.
 
 Caractéristiques :
 
