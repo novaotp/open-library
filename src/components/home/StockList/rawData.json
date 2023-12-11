@@ -1,0 +1,602 @@
+[
+	{
+		"type": "Book",
+		"title": "Sed congue,",
+		"tags": "Action, Science fiction, Adventure",
+		"duration": 83
+	},
+	{
+		"type": "Book",
+		"title": "natoque penatibus",
+		"tags": "Comedy, Adventure, Action",
+		"duration": 210
+	},
+	{
+		"type": "Book",
+		"title": "Suspendisse",
+		"tags": "Adventure, Science fiction, Comedy",
+		"duration": 228
+	},
+	{
+		"type": "Film",
+		"title": "nulla at sem",
+		"tags": "Action, Fantasy, Comedy",
+		"duration": 191
+	},
+	{
+		"type": "Book",
+		"title": "malesuada id,",
+		"tags": "Science fiction, Action, Drama, Comedy",
+		"duration": 163
+	},
+	{
+		"type": "Book",
+		"title": "hymenaeos. Mauris ut",
+		"tags": "Horror, Comedy, Drama",
+		"duration": 95
+	},
+	{
+		"type": "Book",
+		"title": "arcu. Curabitur",
+		"tags": "Fantasy, Action, Drama",
+		"duration": 235
+	},
+	{
+		"type": "Book",
+		"title": "tempus risus.",
+		"tags": "Science fiction, Fantasy, Adventure",
+		"duration": 76
+	},
+	{
+		"type": "Book",
+		"title": "natoque",
+		"tags": "Drama, Action",
+		"duration": 132
+	},
+	{
+		"type": "Book",
+		"title": "tristique neque",
+		"tags": "Drama, Adventure, Action",
+		"duration": 143
+	},
+	{
+		"type": "Film",
+		"title": "scelerisque scelerisque",
+		"tags": "Comedy, Science fiction, Action, Adventure",
+		"duration": 253
+	},
+	{
+		"type": "Book",
+		"title": "Fusce aliquet magna",
+		"tags": "Action, Horror",
+		"duration": 92
+	},
+	{
+		"type": "Book",
+		"title": "tellus. Aenean",
+		"tags": "Science fiction, Drama, Horror, Fantasy",
+		"duration": 162
+	},
+	{
+		"type": "Film",
+		"title": "rhoncus. Nullam",
+		"tags": "Fantasy, Comedy",
+		"duration": 109
+	},
+	{
+		"type": "Film",
+		"title": "vestibulum",
+		"tags": "Action, Horror, Comedy",
+		"duration": 145
+	},
+	{
+		"type": "Book",
+		"title": "ipsum leo",
+		"tags": "Comedy, Fantasy",
+		"duration": 122
+	},
+	{
+		"type": "Film",
+		"title": "semper",
+		"tags": "Fantasy, Adventure, Comedy",
+		"duration": 257
+	},
+	{
+		"type": "Film",
+		"title": "pharetra",
+		"tags": "Fantasy, Action, Horror, Comedy",
+		"duration": 146
+	},
+	{
+		"type": "Book",
+		"title": "nec tellus.",
+		"tags": "Drama, Science fiction",
+		"duration": 121
+	},
+	{
+		"type": "Book",
+		"title": "orci luctus et",
+		"tags": "Drama, Comedy, Action",
+		"duration": 92
+	},
+	{
+		"type": "Book",
+		"title": "nisi dictum",
+		"tags": "Drama, Action, Horror",
+		"duration": 136
+	},
+	{
+		"type": "Book",
+		"title": "Praesent eu",
+		"tags": "Adventure, Comedy",
+		"duration": 99
+	},
+	{
+		"type": "Film",
+		"title": "non,",
+		"tags": "Fantasy, Comedy",
+		"duration": 179
+	},
+	{
+		"type": "Book",
+		"title": "non",
+		"tags": "Adventure, Horror",
+		"duration": 124
+	},
+	{
+		"type": "Book",
+		"title": "ligula.",
+		"tags": "Horror, Action, Science fiction",
+		"duration": 76
+	},
+	{
+		"type": "Book",
+		"title": "lorem",
+		"tags": "Comedy, Action, Science fiction",
+		"duration": 77
+	},
+	{
+		"type": "Film",
+		"title": "montes, nascetur",
+		"tags": "Horror, Science fiction, Adventure",
+		"duration": 113
+	},
+	{
+		"type": "Book",
+		"title": "Curabitur consequat,",
+		"tags": "Horror, Adventure, Fantasy, Science fiction",
+		"duration": 124
+	},
+	{
+		"type": "Film",
+		"title": "et, rutrum",
+		"tags": "Action, Drama",
+		"duration": 135
+	},
+	{
+		"type": "Book",
+		"title": "Donec egestas.",
+		"tags": "Fantasy, Science fiction",
+		"duration": 126
+	},
+	{
+		"type": "Film",
+		"title": "vitae aliquam",
+		"tags": "Fantasy, Drama, Horror",
+		"duration": 154
+	},
+	{
+		"type": "Book",
+		"title": "Mauris magna.",
+		"tags": "Adventure, Action",
+		"duration": 93
+	},
+	{
+		"type": "Book",
+		"title": "ante dictum",
+		"tags": "Science fiction, Drama",
+		"duration": 227
+	},
+	{
+		"type": "Book",
+		"title": "magna. Sed",
+		"tags": "Comedy, Adventure, Science fiction, Horror",
+		"duration": 251
+	},
+	{
+		"type": "Film",
+		"title": "enim. Sed nulla",
+		"tags": "Action, Drama",
+		"duration": 108
+	},
+	{
+		"type": "Film",
+		"title": "pharetra ut, pharetra",
+		"tags": "Adventure, Drama",
+		"duration": 227
+	},
+	{
+		"type": "Film",
+		"title": "eu",
+		"tags": "Adventure, Comedy, Action, Drama",
+		"duration": 127
+	},
+	{
+		"type": "Book",
+		"title": "dis parturient",
+		"tags": "Fantasy, Science fiction, Comedy",
+		"duration": 212
+	},
+	{
+		"type": "Book",
+		"title": "eget metus.",
+		"tags": "Adventure, Science fiction, Comedy",
+		"duration": 226
+	},
+	{
+		"type": "Book",
+		"title": "ut,",
+		"tags": "Comedy, Horror, Action, Science fiction",
+		"duration": 197
+	},
+	{
+		"type": "Film",
+		"title": "enim.",
+		"tags": "Fantasy, Action, Drama, Adventure",
+		"duration": 238
+	},
+	{
+		"type": "Film",
+		"title": "id,",
+		"tags": "Adventure, Horror, Science fiction, Fantasy",
+		"duration": 183
+	},
+	{
+		"type": "Film",
+		"title": "morbi",
+		"tags": "Comedy, Drama, Fantasy",
+		"duration": 108
+	},
+	{
+		"type": "Book",
+		"title": "id, libero. Donec",
+		"tags": "Adventure, Comedy",
+		"duration": 122
+	},
+	{
+		"type": "Book",
+		"title": "nunc.",
+		"tags": "Comedy, Horror",
+		"duration": 229
+	},
+	{
+		"type": "Book",
+		"title": "fringilla, porttitor",
+		"tags": "Fantasy, Action, Horror",
+		"duration": 147
+	},
+	{
+		"type": "Book",
+		"title": "diam eu",
+		"tags": "Adventure, Horror, Drama",
+		"duration": 191
+	},
+	{
+		"type": "Book",
+		"title": "In lorem.",
+		"tags": "Drama, Fantasy",
+		"duration": 136
+	},
+	{
+		"type": "Book",
+		"title": "sed dolor.",
+		"tags": "Drama, Horror",
+		"duration": 85
+	},
+	{
+		"type": "Book",
+		"title": "vitae, posuere at,",
+		"tags": "Fantasy, Drama, Horror",
+		"duration": 112
+	},
+	{
+		"type": "Film",
+		"title": "Lorem ipsum",
+		"tags": "Adventure, Horror, Science fiction",
+		"duration": 247
+	},
+	{
+		"type": "Film",
+		"title": "dui quis accumsan",
+		"tags": "Science fiction, Fantasy, Comedy",
+		"duration": 123
+	},
+	{
+		"type": "Film",
+		"title": "lacinia.",
+		"tags": "Adventure, Comedy, Fantasy, Action",
+		"duration": 226
+	},
+	{
+		"type": "Book",
+		"title": "luctus et",
+		"tags": "Adventure, Comedy, Horror",
+		"duration": 231
+	},
+	{
+		"type": "Book",
+		"title": "laoreet, libero",
+		"tags": "Fantasy, Comedy, Science fiction",
+		"duration": 257
+	},
+	{
+		"type": "Film",
+		"title": "ac,",
+		"tags": "Horror, Comedy, Adventure",
+		"duration": 254
+	},
+	{
+		"type": "Film",
+		"title": "elit.",
+		"tags": "Fantasy, Science fiction",
+		"duration": 91
+	},
+	{
+		"type": "Film",
+		"title": "vitae, sodales",
+		"tags": "Comedy, Drama, Fantasy",
+		"duration": 124
+	},
+	{
+		"type": "Film",
+		"title": "Proin nisl",
+		"tags": "Action, Fantasy, Adventure",
+		"duration": 222
+	},
+	{
+		"type": "Film",
+		"title": "fermentum",
+		"tags": "Horror, Adventure, Comedy, Science fiction",
+		"duration": 174
+	},
+	{
+		"type": "Film",
+		"title": "libero nec ligula",
+		"tags": "Fantasy, Action, Horror",
+		"duration": 143
+	},
+	{
+		"type": "Book",
+		"title": "elit, a feugiat",
+		"tags": "Science fiction, Action, Adventure, Drama",
+		"duration": 158
+	},
+	{
+		"type": "Book",
+		"title": "nec orci. Donec",
+		"tags": "Fantasy, Comedy",
+		"duration": 245
+	},
+	{
+		"type": "Book",
+		"title": "risus a",
+		"tags": "Fantasy, Adventure",
+		"duration": 119
+	},
+	{
+		"type": "Film",
+		"title": "dolor",
+		"tags": "Science fiction, Horror, Adventure",
+		"duration": 250
+	},
+	{
+		"type": "Film",
+		"title": "euismod mauris",
+		"tags": "Drama, Horror, Action",
+		"duration": 127
+	},
+	{
+		"type": "Book",
+		"title": "Donec at arcu.",
+		"tags": "Adventure, Comedy, Action, Science fiction",
+		"duration": 174
+	},
+	{
+		"type": "Book",
+		"title": "iaculis",
+		"tags": "Fantasy, Drama, Comedy",
+		"duration": 229
+	},
+	{
+		"type": "Film",
+		"title": "erat eget",
+		"tags": "Horror, Science fiction, Comedy, Drama",
+		"duration": 149
+	},
+	{
+		"type": "Book",
+		"title": "cubilia Curae",
+		"tags": "Science fiction, Horror, Comedy",
+		"duration": 237
+	},
+	{
+		"type": "Film",
+		"title": "Donec elementum,",
+		"tags": "Fantasy, Comedy, Drama",
+		"duration": 125
+	},
+	{
+		"type": "Book",
+		"title": "Donec nibh. Quisque",
+		"tags": "Science fiction, Adventure",
+		"duration": 112
+	},
+	{
+		"type": "Film",
+		"title": "commodo tincidunt",
+		"tags": "Action, Drama, Science fiction",
+		"duration": 140
+	},
+	{
+		"type": "Book",
+		"title": "adipiscing",
+		"tags": "Action, Science fiction, Adventure",
+		"duration": 244
+	},
+	{
+		"type": "Film",
+		"title": "Fusce mi",
+		"tags": "Fantasy, Drama, Horror, Adventure",
+		"duration": 168
+	},
+	{
+		"type": "Book",
+		"title": "rutrum",
+		"tags": "Action, Comedy, Fantasy",
+		"duration": 227
+	},
+	{
+		"type": "Film",
+		"title": "placerat. Cras",
+		"tags": "Comedy, Action, Drama",
+		"duration": 234
+	},
+	{
+		"type": "Film",
+		"title": "diam nunc,",
+		"tags": "Action, Fantasy, Drama",
+		"duration": 146
+	},
+	{
+		"type": "Film",
+		"title": "montes, nascetur ridiculus",
+		"tags": "Science fiction, Fantasy, Drama",
+		"duration": 152
+	},
+	{
+		"type": "Film",
+		"title": "Maecenas",
+		"tags": "Adventure, Fantasy, Horror, Drama",
+		"duration": 148
+	},
+	{
+		"type": "Book",
+		"title": "ipsum. Suspendisse",
+		"tags": "Comedy, Horror, Action, Adventure",
+		"duration": 168
+	},
+	{
+		"type": "Film",
+		"title": "non quam.",
+		"tags": "Adventure, Fantasy, Science fiction",
+		"duration": 181
+	},
+	{
+		"type": "Book",
+		"title": "nulla. In tincidunt",
+		"tags": "Fantasy, Comedy",
+		"duration": 202
+	},
+	{
+		"type": "Book",
+		"title": "luctus vulputate,",
+		"tags": "Fantasy, Science fiction, Adventure",
+		"duration": 248
+	},
+	{
+		"type": "Film",
+		"title": "egestas.",
+		"tags": "Science fiction, Action, Drama",
+		"duration": 254
+	},
+	{
+		"type": "Film",
+		"title": "tempus",
+		"tags": "Horror, Fantasy, Adventure",
+		"duration": 218
+	},
+	{
+		"type": "Film",
+		"title": "ac sem",
+		"tags": "Science fiction, Fantasy, Adventure, Horror",
+		"duration": 185
+	},
+	{
+		"type": "Book",
+		"title": "mauris, aliquam",
+		"tags": "Action, Fantasy, Adventure, Horror",
+		"duration": 106
+	},
+	{
+		"type": "Film",
+		"title": "et,",
+		"tags": "Adventure, Comedy, Drama, Horror",
+		"duration": 154
+	},
+	{
+		"type": "Book",
+		"title": "Nulla tincidunt,",
+		"tags": "Action, Horror",
+		"duration": 159
+	},
+	{
+		"type": "Film",
+		"title": "faucibus",
+		"tags": "Adventure, Science fiction",
+		"duration": 103
+	},
+	{
+		"type": "Film",
+		"title": "Maecenas mi",
+		"tags": "Comedy, Drama",
+		"duration": 156
+	},
+	{
+		"type": "Book",
+		"title": "quam, elementum",
+		"tags": "Science fiction, Adventure, Fantasy, Comedy",
+		"duration": 88
+	},
+	{
+		"type": "Book",
+		"title": "feugiat. Lorem ipsum",
+		"tags": "Science fiction, Comedy, Drama, Adventure",
+		"duration": 124
+	},
+	{
+		"type": "Film",
+		"title": "mollis vitae,",
+		"tags": "Action, Drama",
+		"duration": 227
+	},
+	{
+		"type": "Film",
+		"title": "metus. Aliquam erat",
+		"tags": "Fantasy, Horror",
+		"duration": 201
+	},
+	{
+		"type": "Book",
+		"title": "nec",
+		"tags": "Comedy, Action, Drama",
+		"duration": 127
+	},
+	{
+		"type": "Book",
+		"title": "non arcu.",
+		"tags": "Adventure, Fantasy, Comedy, Action",
+		"duration": 183
+	},
+	{
+		"type": "Book",
+		"title": "augue",
+		"tags": "Action, Fantasy, Comedy",
+		"duration": 98
+	},
+	{
+		"type": "Film",
+		"title": "venenatis",
+		"tags": "Science fiction, Horror",
+		"duration": 183
+	}
+]

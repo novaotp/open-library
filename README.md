@@ -46,6 +46,10 @@ npm run dev
 
 4. Ouvrir [http://localhost:8144](http://localhost:8144) dans votre navigateur pour voir l'appli.
 
+## Sources
+
+Générateur de stock : https://generatedata.com/generator
+
 ## Auteur
 
 Sajidur Rahman
